@@ -20,4 +20,4 @@ Live experiences happening online during the Covid-19 pandemic. If you like some
 
 ## Music
 
-- La Blogotheque is streaming improvides, intimate live shows with a new artist every day on their instagram - https://www.instagram.com/blogotheque/
+- La Blogotheque is streaming improvised, intimate live shows with a new artist every day on their instagram - https://www.instagram.com/blogotheque/

@@ -1,6 +1,6 @@
 # covid19-experiences
 
-Live experiences happening online during the Covid-19 pandemic. If you like some of these, consider supporting the organizations behind them.
+Cultural and educational things happening online during the Covid-19 pandemic. If you like some of these, consider supporting the organizations/creators behind them.
 
 
 ## Theater

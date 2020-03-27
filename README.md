@@ -26,3 +26,4 @@ Live experiences happening online during the Covid-19 pandemic. If you like some
 ## Music
 
 - La Blogotheque is streaming improvised, intimate live shows with a new artist every day on their instagram - https://www.instagram.com/blogotheque/
+- The Montreux Jazz Festival is giving away free streaming access to 50 full concerts - https://www.montreuxjazzfestival.com/en/50-concerts-to-stream/

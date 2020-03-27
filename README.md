@@ -10,7 +10,7 @@ Live experiences happening online during the Covid-19 pandemic. If you like some
 
 ## Museums
 
-- The Swiss Architecture Museum in Basel is doing a virtual tour of their current exhibition "Under the Radar" on April 2nd at 6pm CET - https://www.facebook.com/events/517047555864001/
+- The Swiss Architecture Museum in Basel is doing a virtual (i.e. live-streamed) tour of their current exhibition "Under the Radar" on April 2nd at 6pm CET - https://www.facebook.com/events/517047555864001/
 
 
 ## Movies

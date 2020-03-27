@@ -8,6 +8,11 @@ Live experiences happening online during the Covid-19 pandemic. If you like some
 - The new theater streaming platform SPECTYOU is currently offering it's whole starting library for free - https://beta.spectyou.com/
 
 
+## Opera
+
+- Opernhaus Zürich is streaming a new Opera / Ballet production for free every weekend - https://www.opernhaus.ch/spielplan/streaming
+
+
 ## Museums
 
 - The Swiss Architecture Museum in Basel is doing a virtual (i.e. live-streamed) tour of their current exhibition "Under the Radar" on April 2nd at 6pm CET - https://www.facebook.com/events/517047555864001/

@@ -27,3 +27,9 @@ Live experiences happening online during the Covid-19 pandemic. If you like some
 
 - La Blogotheque is streaming improvised, intimate live shows with a new artist every day on their instagram - https://www.instagram.com/blogotheque/
 - The Montreux Jazz Festival is giving away free streaming access to 50 full concerts - https://www.montreuxjazzfestival.com/en/50-concerts-to-stream/
+
+
+## Learning
+
+- The Museum of Digital Art Zurich is holding free online classes targeted towards kids - https://muda.co/ccc/
+- German Designer Tim Rodenbröcker released some free basic creative coding lessons - https://timrodenbroeker.de/courses/creative-coding-essentials/

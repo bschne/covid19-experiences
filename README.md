@@ -13,9 +13,10 @@ Cultural and educational things happening online during the Covid-19 pandemic. I
 - Opernhaus Zürich is streaming a new Opera / Ballet production for free every weekend - https://www.opernhaus.ch/spielplan/streaming
 
 
-## Museums
+## Museums & Art
 
 - The Swiss Architecture Museum in Basel is doing a virtual (i.e. live-streamed) tour of their current exhibition "Under the Radar" on April 2nd at 6pm CET - https://www.facebook.com/events/517047555864001/
+- The French photography festival Les Rencontres d'Arles put a lot of recorded talks from previous editions online - https://vimeopro.com/user1218524/theatre-antique-2008-2019
 
 
 ## Movies

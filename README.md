@@ -6,7 +6,7 @@ Cultural and educational things happening online during the Covid-19 pandemic. I
 ## Theater
 
 - The new theater streaming platform SPECTYOU is currently offering it's whole starting library for free - https://beta.spectyou.com/
-
+- Thalia Theater in Hamburg is streaming some of their own productions for free - https://www.thalia-theater.de/index.php#digitalebuehne
 
 ## Opera
 
